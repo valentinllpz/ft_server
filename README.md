@@ -8,8 +8,8 @@ The server will run with Debian Buster, Nginx, Mysql or Mariadb, phpMyAdmin and 
 1. Clone this repo and access it with `cd`
 2. Run `docker build -t ft-server:latest .` to build the image. This may take a while.
 3. To run this image in a container working in background use `docker run -d --name="vlugand-" --rm -p 80:80 -p 443:443 ft-server`
-4. To stop the container use `docker stop vlugand-`. 
-5. You can remove the image with `docker rmi ft-server`.
+4. To stop the container use `docker stop vlugand-`
+5. You can remove the image with `docker rmi ft-server`
 
 ## 📚 Ressources
 
