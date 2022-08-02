@@ -1,7 +1,7 @@
 # ft_server
 
 This [42](https://42.fr/en/homepage/) project teached us how to build a web server from scratches with a Dockerfile.
-The server will run with Debian Buster, Nginx, Mysql or Mariadb, phpMyAdmin and Wordpress. It must use the SSL protocole when it's possible.
+The server will run with [Debian Buster](https://www.debian.org/releases/buster/), [Nginx](https://www.nginx.com/), [Mysql](https://www.mysql.com/) or [Mariadb](https://mariadb.org/), [phpMyAdmin](https://www.phpmyadmin.net/) and [Wordpress](https://wordpress.com/). It must use the SSL protocole when it's possible.
 
 ## 🧭 Usage
 
